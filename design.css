@@ -1,0 +1,19 @@
+body{
+    background-color: brown;
+}
+.form{
+    color: azure;
+    border-radius: 10%;
+    height: 200px;
+    width: 200px;
+    margin-left: 400px;
+    border: 2px blue;
+    
+  }
+  .text{
+    margin-left: 10%;
+    padding-top: 09%;
+    padding-right: 09%;
+    font-style: 017px;
+    font-weight: 300;
+  }
